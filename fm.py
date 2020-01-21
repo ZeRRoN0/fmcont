@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import mechanize
+import mechanize #mechanize install //$pip install mechanize
 #color
 green = "\033[92m"
 yellow = "\033[93m"
